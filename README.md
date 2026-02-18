@@ -48,6 +48,9 @@ Or set it as an environment variable.
 Get your API key from:
 https://aistudio.google.com/app/apikey
 
+# StoryBoard
+story Board [https://www.canva.com/design/DAHBjagGvWs/frhsiFxK102p6Uz3K0obQg/edit?utm_content=DAHBjagGvWs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
 ▶️ Run the App
 streamlit run app.py
 
